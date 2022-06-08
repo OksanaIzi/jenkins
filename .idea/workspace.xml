@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="699ffc3e-b225-494b-a0b5-65cc3c3bb9da" name="Changes" comment="add new UI tests and test with SystemProperties">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/izibekova/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/izibekova/snippets/Snippets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/izibekova/tests/TestUIWithRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/izibekova/tests/TestsWithSystemProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="699ffc3e-b225-494b-a0b5-65cc3c3bb9da" name="Changes" comment="add test with owner">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/izibekova/tests/FirstTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +55,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -202,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.TestProject [allureServe]" />
         <item itemvalue="Gradle.TestsWithSystemProperties.checkProperty (1)" />
+        <item itemvalue="Gradle.TestProject [allureServe]" />
+        <item itemvalue="Gradle.FirstTest.checkNavigationButton" />
         <item itemvalue="Gradle.FirstTest.checkAddressesOpenCorrect" />
         <item itemvalue="Gradle.FirstTest" />
-        <item itemvalue="Gradle.FirstTest.checkNavigationButton" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +228,35 @@
       <option name="project" value="LOCAL" />
       <updated>1654184009795</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new UI tests and test with SystemProperties">
+      <created>1654492041718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654492041719</updated>
+    </task>
+    <task id="LOCAL-00003" summary="some changes in BaseTest.java">
+      <created>1654579096902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654579096903</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add test with owner">
+      <created>1654712660072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654712660072</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add test with owner">
+      <created>1654713726431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654713726431</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,6 +273,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new tests and attacments" />
     <MESSAGE value="add new UI tests and test with SystemProperties" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new UI tests and test with SystemProperties" />
+    <MESSAGE value="some changes in BaseTest.java" />
+    <MESSAGE value="add test with owner" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test with owner" />
   </component>
 </project>
